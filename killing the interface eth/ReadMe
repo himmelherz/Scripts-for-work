@@ -1,0 +1,1 @@
+run ifconfig eth0 down in loop 
